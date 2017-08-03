@@ -1,0 +1,13 @@
+{
+  "name": "red-switch",
+  "version": "0.0.1",
+  "description": "Push notification",
+  "main": "server.js",
+  "author": "bbrassart",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "4.4.7"
+  }
+}
